@@ -2,7 +2,7 @@
 
 A comprehensive and robust Dentist Appointment Management System built with **Laravel**. This project provides a complete solution for managing dental clinic operations, including patient reservations, doctor schedules, and an administrative dashboard.
 
-## Features
+Features
 
 *   **User Roles & Authentication:** Secure login and registration for Patients, Doctors, and Administrators.
 *   **Admin Dashboard:** Centralized panel to manage users, doctors, and monitor all clinic appointments.
