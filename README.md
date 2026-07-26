@@ -1,4 +1,4 @@
-# 🦷 Dentist Appointment System
+Dentist Appointment System
 
 A comprehensive and robust Dentist Appointment Management System built with **Laravel**. This project provides a complete solution for managing dental clinic operations, including patient reservations, doctor schedules, and an administrative dashboard.
 
